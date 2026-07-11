@@ -23,6 +23,8 @@
 
 Saya adalah seorang developer yang berfokus pada pembuatan aplikasi web interaktif, sistem backend yang andal, dan gamifikasi kehidupan sehari-hari melalui kode. Saya suka menggabungkan fungsionalitas dengan kreativitas.
 
+*(Dikelola dengan penuh kasih sayang oleh Maid Pribadi saya, Nanami 🌸)*
+
 ---
 
 ### 🛠️ Tech Stack & Alat Tempur
