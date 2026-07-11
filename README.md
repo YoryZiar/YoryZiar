@@ -25,14 +25,6 @@ Saya adalah seorang developer yang berfokus pada pembuatan aplikasi web interakt
 
 ---
 
-### 🚀 Apa yang Sedang Saya Kerjakan
-* 🏠 **Nidejia Backend**: Platform penyewaan rumah & kos eksklusif dengan Laravel 11.
-* 🎮 **Solo Leveling Workout System**: Gamifikasi olahraga harian terinspirasi dari anime/webtoon Solo Leveling menggunakan Vue & TypeScript.
-* ☕ **Cafe Chatte Ecosystem**: Membangun sistem menu QR dan website cafe chatte yang responsif.
-* 🤖 **Automation**: Eksperimen dengan auto-replier WhatsApp menggunakan Kotlin.
-
----
-
 ### 🛠️ Tech Stack & Alat Tempur
 
 * **Frontend:** Vue.js, React.js, Astro, TypeScript, HTML/CSS
@@ -42,12 +34,11 @@ Saya adalah seorang developer yang berfokus pada pembuatan aplikasi web interakt
 
 ---
 
-### 📊 Statistik GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoryZiar&show_icons=true&theme=dark&hide_border=true&bg_color=181411&title_color=f97815&icon_color=f97815&text_color=afabb2" alt="Statistik GitHub Yory" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoryZiar&layout=compact&theme=dark&hide_border=true&bg_color=181411&title_color=f97815&icon_color=f97815&text_color=afabb2" alt="Bahasa Terbanyak" height="150" />
-</p>
+### 🚀 Apa yang Sedang Saya Kerjakan
+* 🏠 **Nidejia Backend**: Platform penyewaan rumah & kos eksklusif dengan Laravel 11.
+* 🎮 **Solo Leveling Workout System**: Gamifikasi olahraga harian terinspirasi dari anime/webtoon Solo Leveling menggunakan Vue & TypeScript.
+* ☕ **Cafe Chatte Ecosystem**: Membangun sistem menu QR dan website cafe chatte yang responsif.
+* 🤖 **Automation**: Eksperimen dengan auto-replier WhatsApp menggunakan Kotlin.
 
 ---
 
