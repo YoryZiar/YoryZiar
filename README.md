@@ -77,7 +77,6 @@ Saya seorang developer yang gemar membangun aplikasi web modern, sistem backend 
 
 | Project | Description | Tech | Status |
 |---------|-------------|------|:------:|
-
 | [⚔️ **Solo Leveling Workout**](https://github.com/YoryZiar/leveling-system) | Gamifikasi daily workout ala Solo Leveling. Quest, stats, unlock skills, global rankings! ⭐ | Vue.js, TypeScript | ✅ Active |
 | [📊 **Habit Tracker**](https://github.com/YoryZiar/habit-tracker) | Lacak kebiasaan + gamifikasi. Reward system, progress harian. | React, TypeScript, Google Sheets API | ✅ Active |
 | [🔄 **Node.js CRUD PostgreSQL**](https://github.com/YoryZiar/nodejs_crud_postgresql) | RESTful API CRUD Express + PostgreSQL + Sequelize. Production-ready. | JavaScript, Express, Sequelize | ✅ Active |
