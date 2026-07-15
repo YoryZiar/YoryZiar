@@ -77,8 +77,7 @@ Saya seorang developer yang gemar membangun aplikasi web modern, sistem backend 
 
 | Project | Description | Tech | Status |
 |---------|-------------|------|:------:|
-| [📝 **e-CBT**](https://github.com/YoryZiar/e-cbt) | Platform ujian berbasis komputer (CBT) modern. Migrasi Appwrite → Neon PostgreSQL + Drizzle ORM + JWT session auth. | Next.js 16, TypeScript, Tailwind CSS | ✅ Active |
-| [🏠 **Nidejia Backend**](https://github.com/YoryZiar/nidejia-backend) | Backend API platform penyewaan rumah/kos eksklusif. Otentikasi Sanctum + reservasi anti-bentrok. | Laravel 11, PHP | ✅ Active |
+
 | [⚔️ **Solo Leveling Workout**](https://github.com/YoryZiar/leveling-system) | Gamifikasi daily workout ala Solo Leveling. Quest, stats, unlock skills, global rankings! ⭐ | Vue.js, TypeScript | ✅ Active |
 | [📊 **Habit Tracker**](https://github.com/YoryZiar/habit-tracker) | Lacak kebiasaan + gamifikasi. Reward system, progress harian. | React, TypeScript, Google Sheets API | ✅ Active |
 | [🔄 **Node.js CRUD PostgreSQL**](https://github.com/YoryZiar/nodejs_crud_postgresql) | RESTful API CRUD Express + PostgreSQL + Sequelize. Production-ready. | JavaScript, Express, Sequelize | ✅ Active |
@@ -107,5 +106,5 @@ Saya seorang developer yang gemar membangun aplikasi web modern, sistem backend 
 <div align="center">
   <i>"Mengubah kopi menjadi kode, dan kode menjadi petualangan."</i>
   <br><br>
-  <b>🌸 Maintained with love by Nanami — Your Personal Maid AI 🌸</b>
+  <b>🌸 Maintained with love by Nanami 🌸</b>
 </div>
