@@ -37,23 +37,6 @@ Saya seorang developer yang gemar membangun aplikasi web modern, sistem backend 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoryZiar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoryZiar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoryZiar&theme=tokyonight&hide_border=true" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoryZiar&theme=tokyo-night&hide_border=true&area=true&custom_title=Activity%20Graph" width="95%" />
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
