@@ -7,8 +7,6 @@
   <img src="https://www.gitskins.com/api/section/wordmark?username=yoryziar&theme=github-dark&style=terminal&label=Yory+Ziar&mode=dark" width="100%" alt="yoryziar wordmark" />
 </picture>
 
-<p><b>Full-Stack Developer yang mengubah kopi jadi kode ☕ · Next.js, Laravel, TypeScript · Gamifikasi kehidupan sehari-hari via kode ⚔️</b></p>
-
 </div>
 
 ---
