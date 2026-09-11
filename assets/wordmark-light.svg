@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-label="Yory Ziar — Full-Stack Engineer">
+  <defs>
+    <linearGradient id="accentLight" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0969da"/>
+      <stop offset="55%" stop-color="#3b6fd4"/>
+      <stop offset="100%" stop-color="#8250df"/>
+    </linearGradient>
+    <linearGradient id="ruleLight" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0969da" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#8250df" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="gridLight" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#eaeef2" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="899" height="229" rx="14" fill="#ffffff" stroke="#d0d7de"/>
+  <rect x="1" y="1" width="898" height="228" rx="14" fill="url(#gridLight)" opacity="0.9"/>
+
+  <!-- title bar -->
+  <circle cx="30" cy="28" r="6" fill="#ff5f56"/>
+  <circle cx="52" cy="28" r="6" fill="#ffbd2e"/>
+  <circle cx="74" cy="28" r="6" fill="#27c93f"/>
+  <text x="872" y="33" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8c959f">~/profile</text>
+  <line x1="1" y1="50" x2="899" y2="50" stroke="#d8dee4"/>
+
+  <!-- prompt -->
+  <text x="34" y="86" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#57606a">yoryziar@github<tspan fill="#afb8c1">:</tspan><tspan fill="#0969da">~</tspan><tspan fill="#57606a">$</tspan><tspan fill="#1f2328"> ./portfolio.sh --profile</tspan></text>
+
+  <!-- name -->
+  <text x="32" y="156" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="60" font-weight="700" letter-spacing="4" fill="url(#accentLight)">YORY ZIAR</text>
+
+  <!-- status line -->
+  <text x="34" y="192" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#57606a">FULL-STACK ENGINEER <tspan fill="#afb8c1">·</tspan> MATARAM, NTB <tspan fill="#afb8c1">·</tspan> <tspan fill="#0969da">[ STATUS: SHIPPING ]</tspan></text>
+
+  <line x1="34" y1="208" x2="866" y2="208" stroke="url(#ruleLight)" stroke-width="2"/>
+</svg>
