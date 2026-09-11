@@ -155,34 +155,6 @@ Setiap paket kerja melewati satu jalur tetap: **rencana → implementasi → ver
 
 ---
 
-## `> htop --contributions`
-
-Peta aktivitas 53 minggu terakhir, `░ 1–2` · `▒ 3–5` · `▓ 6–10` · `█ 11+`:
-
-<pre>
-Sen                          ▒ ░ ░      ▓  ░  ░ █▒ ▓▓░   
-     █    ░              ░   ▒ ░   ▒          ▒ ▓  ▓░    
-Rab     ▓ ░                 █▒ ░  ░      ░ ▓  ▒ █▒ ▒░    
-                    ▒        ░▓  ░░      ▒      █ ▒     █
-Jum                         ▓ ▓  ░░      ░        █▒▒   ▓
-                           ░   ▒░ ░      ▒   ▓  ▒  ░   ░█
-Min                         ▓            ░     ▓▓░█   █  
-</pre>
-
----
-
-## `> achievements --unlocked`
-
-| Lencana | Pencapaian |
-|:---:|---|
-| 🥇 | **Juara LKS Web Technology — Nusa Tenggara Barat** |
-| 🎓 | Siswa SMK Rekayasa Perangkat Lunak · Mahasiswa Universitas Terbuka (Sistem Informasi) |
-| 🌐 | Pemelihara [yoryziar.my.id](https://yoryziar.my.id) — portofolio pribadi bergaya Otaku/Anime |
-| 🤖 | Arsitek sistem multi-agen otonom berbasis CrewAI & orkestrasi LLM |
-| 📓 | Penulis blog teknis di [yoryziar-blog.vercel.app](https://yoryziar-blog.vercel.app) |
-
----
-
 ## `> ping me`
 
 <div align="center">
