@@ -115,7 +115,7 @@ Setiap paket kerja melewati satu jalur tetap: **rencana → implementasi → ver
 │  2023  ██······················     26                                    │
 │  2024  █████···················     75                                    │
 │  2025  ████████················    120                                    │
-│  2026  ████████████████████████    359   ◄ permintaan tertinggi           │
+│  2026  ████████████████████████    367   ◄ permintaan tertinggi           │
 └───────────────────────────────────────────────────────────────────────────┘
 
 ┌─ KOMPOSISI KODE (14 repositori publik · 1,01 MB) ─────────────────────────┐
@@ -139,17 +139,18 @@ Setiap paket kerja melewati satu jalur tetap: **rencana → implementasi → ver
 │  Apr ██··················  11                                             │
 │  Mei ███·················  19                                             │
 │  Jun ███·················  22                                             │
-│  Jul ████████████████████ 129   ◄ puncak produktivitas                     │
+│  Jul ████████████████████ 129   ◄ puncak produktivitas                    │
 │  Agu ███████████·········  73                                             │
-│  Sep ███████·············  46                                             │
+│  Sep ████████············  54                                             │
 └───────────────────────────────────────────────────────────────────────────┘
 </pre>
 
 | Metrik | Nilai |
 |---|:---:|
-| Kontribusi (12 bulan) | **386** |
-| Total Pull Request | **82** |
+| Kontribusi (12 bulan) | **394** |
+| Pull Request (12 bulan) | **13** |
 | Repositori publik | **15** |
+| Kode publik | **1,01 MB** |
 | Tahun aktif | **2022 – 2026** |
 | Pengikut | **10** |
 
@@ -169,6 +170,9 @@ Setiap paket kerja melewati satu jalur tetap: **rencana → implementasi → ver
 <summary><sub><b>📄 Catatan Teknis — mengapa README ini tidak memakai badge</b></sub></summary>
 
 <br />
+
+<!-- stats-updated -->
+`📅 Data statistik diperbarui otomatis: 11 September 2026 WITA · 589 kontribusi sepanjang masa`
 
 Berikut hasil pemindaian nyata terhadap repositori ini, bukan klaim:
 
@@ -191,6 +195,8 @@ $ grep -cE '(src|srcset)="https?://' README.md
 | Berkas grafis | **2** — SVG lokal di `assets/` |
 
 README ini dirancang **mandiri sepenuhnya**. Angka statistik dibaca langsung dari GitHub GraphQL API dan dirender sebagai teks saat ini juga — bukan diambil dari layanan gambar yang bisa mati sewaktu-waktu. Satu-satunya berkas grafis adalah SVG wordmark di `assets/`, tersimpan di dalam repositori ini sendiri dan beradaptasi otomatis terhadap mode terang maupun gelap GitHub.
+
+Seluruh angka pada seksi `git stats --global` **diperbarui otomatis setiap Senin 01:00 WITA** oleh alur kerja di `.github/workflows/update-stats.yml`, yang membaca ulang data publik melalui `scripts/update_stats.py`. Karena itu tidak ada angka yang dapat menjadi usang tanpa terlihat.
 
 Artinya: tidak ada *badge* usang, tidak ada gambar rusak, tidak ada permintaan jaringan ke domain luar. Halaman ini akan tampil utuh selama GitHub menampilkan Markdown.
 
