@@ -113,20 +113,20 @@ Setiap paket kerja melewati satu jalur tetap: **rencana → implementasi → ver
 ┌─ KONTRIBUSI PER TAHUN ────────────────────────────────────────────────────┐
 │  2022  █·······················      1                                    │
 │  2023  █·······················     26                                    │
-│  2024  ████····················     75                                    │
-│  2025  ██████··················    120                                    │
-│  2026  ████████████████████████    491   ◄ permintaan tertinggi           │
+│  2024  ███·····················     75                                    │
+│  2025  █████···················    120                                    │
+│  2026  ████████████████████████    541   ◄ permintaan tertinggi           │
 └───────────────────────────────────────────────────────────────────────────┘
 
-┌─ KOMPOSISI KODE (14 repositori publik · 1,01 MB) ─────────────────────────┐
-│  TypeScript  █████████████·······  64.8%                                  │
-│  PHP         ██··················  10.4%                                  │
+┌─ KOMPOSISI KODE (12 repositori publik · 0,96 MB) ─────────────────────────┐
+│  TypeScript  █████████████·······  65.3%                                  │
+│  PHP         ██··················  10.9%                                  │
 │  HTML        █···················   7.1%                                  │
-│  JavaScript  █···················   6.0%                                  │
-│  Vue         █···················   5.1%                                  │
-│  Kotlin      █···················   5.0%                                  │
-│  CSS         █···················   1.1%                                  │
-│  EJS         █···················   0.5%                                  │
+│  Vue         █···················   5.4%                                  │
+│  Kotlin      █···················   5.2%                                  │
+│  JavaScript  █···················   4.8%                                  │
+│  CSS         █···················   0.8%                                  │
+│  EJS         █···················   0.6%                                  │
 └───────────────────────────────────────────────────────────────────────────┘
 
 ┌─ IRAMA 12 BULAN TERAKHIR ─────────────────────────────────────────────────┐
@@ -134,25 +134,25 @@ Setiap paket kerja melewati satu jalur tetap: **rencana → implementasi → ver
 │  Nov ····················   0                                             │
 │  Des █···················   3                                             │
 │  Jan ····················   0                                             │
-│  Feb ███·················  26                                             │
-│  Mar ████················  33                                             │
+│  Feb ██··················  26                                             │
+│  Mar ███·················  33                                             │
 │  Apr █···················  11                                             │
 │  Mei ██··················  19                                             │
 │  Jun ██··················  22                                             │
-│  Jul ██████████████······ 129                                             │
-│  Agu ████████············  73                                             │
-│  Sep ████████████████████ 178   ◄ puncak produktivitas                    │
+│  Jul ███████████········· 129                                             │
+│  Agu ██████··············  73                                             │
+│  Sep ████████████████████ 228   ◄ puncak produktivitas                    │
 └───────────────────────────────────────────────────────────────────────────┘
 </pre>
 
 | Metrik | Nilai |
 |---|:---:|
-| Kontribusi (12 bulan) | **504** |
-| Pull Request (12 bulan) | **14** |
-| Repositori publik | **15** |
-| Kode publik | **1,01 MB** |
+| Kontribusi (12 bulan) | **554** |
+| Pull Request (12 bulan) | **12** |
+| Repositori publik | **14** |
+| Kode publik | **0,96 MB** |
 | Tahun aktif | **2022 – 2026** |
-| Pengikut | **10** |
+| Pengikut | **9** |
 
 ---
 
@@ -172,7 +172,7 @@ Setiap paket kerja melewati satu jalur tetap: **rencana → implementasi → ver
 <br />
 
 <!-- stats-updated -->
-`📅 Data statistik diperbarui otomatis: 21 September 2026 WITA · 713 kontribusi sepanjang masa`
+`📅 Data statistik diperbarui otomatis: 28 September 2026 WITA · 763 kontribusi sepanjang masa`
 
 Berikut hasil pemindaian nyata terhadap repositori ini, bukan klaim:
 
